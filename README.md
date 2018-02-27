@@ -3,7 +3,7 @@
 Using LabVIEW 2017 and its modules to desgin a controller for the 2 DC motors with
 encoders conected to NI my RIO 1900.
 
-![Alt Text](https://media.giphy.com/media/7ICRATsXrkRqHqnwdh/giphy.gif)
+![Alt Text](https://media.giphy.com/media/ZgRgMabfsX0Sh4EQRM/giphy.gif)
 
 Youtube link for a demos:
  
