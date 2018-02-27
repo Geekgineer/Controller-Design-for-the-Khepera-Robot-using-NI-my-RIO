@@ -8,8 +8,11 @@ encoders conected to NI myRIO 1900.
 Youtube link for a demos:
  
   part 1 : https://www.youtube.com/watch?v=_-B5PhSf7Mw
+
   part 2 : https://www.youtube.com/watch?v=Vi8KWzeLy7E
+  
   part 3 : https://www.youtube.com/watch?v=mVRCIt-xQZo
+  
   
 **contact me for older versions for labVIEW 2016,2015,2014,2013,2012.**
 
